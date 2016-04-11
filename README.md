@@ -10,3 +10,11 @@ So I just made a little fun to execute command without using alphanum characters
 There are 2 files that worked on macos and linux (ubuntu - in my case)
 
 Change your command in source code (COMMAND = '-----')
+
+Screenshot 1
+![alt tag](https://raw.githubusercontent.com/trichimtrich/bashfuck/master/sc_bf1.png)
+
+Screenshot 2
+![alt tag](https://raw.githubusercontent.com/trichimtrich/bashfuck/master/sc_bf2.png)
+
+Have fun ^^!
